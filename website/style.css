@@ -16,36 +16,13 @@ body{
     font-family: 'Oswald', sans-serif;
 }
 
-.holder{
-
-}
-
 .entry{
     background: rgba(59, 74, 107, .4);
+    margin-top: -100px;
+    padding: 10px 20px;
 }
 
-#entryHolder{
 
-}
-
-#date{
-
-}
-
-#temp{
-
-}
-
-#content{
-
-}
-
-.headline {
-
-}
-.title{
-
-}
 
 /*  Basic Styling To Override Default For Basic HTML Elements */
 label{
@@ -55,7 +32,7 @@ label{
 
 input{
     display:block;
-    height: 60px;
+    height: 50px;
     width: 320px;
     background:#22b2da;
     color: #f0d43a;
@@ -109,3 +86,10 @@ button:focus {
     font-family: 'Oswald', sans-serif;
 
 } 
+
+.zip{
+    margin-top: -120px;
+}
+.feel{
+    margin-top: -175px; 
+}
